@@ -126,6 +126,6 @@ example = "service postings marathon petroleum co said it reduced the contract p
 doc = nlp(example)
 displacy.render(doc, style='ent')
 ```
-![Alt Text]()
+![Alt Text](https://github.com/sulaihasubi/Named-Entity-Recognition-spaCy/blob/main/result/output.png)
 
 
