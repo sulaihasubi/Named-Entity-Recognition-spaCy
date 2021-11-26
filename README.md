@@ -13,8 +13,8 @@ The notebooks should work with any of the Python versions listed below:
 ## ✍🏻 Table of Contents
 - [⌛ Introduction](#-introduction)
 - [📊 Label the Data](%-label-the-data)
-- [🖥 Train & Test the Model](#--train-the-model)
-
+- [🖥 Train & Test the Model](#--train--test-the-model)
+- [📖 Conclusion](#--train--test-the-model)
 
 ## ⌛ Introduction
 
