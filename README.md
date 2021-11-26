@@ -10,9 +10,15 @@ The notebooks should work with any of the Python versions listed below:
 [![Python](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-386/)
 [![Python](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-389/)
 
-## Table of Contents
+## ✍🏻 Table of Contents
 - [⌛ Introduction](#-introduction)
-
+- [Introduction](#introduction)
+- [📖 Problem Statements](#-problem-statements)
+- [📊 About the Dataset](#-about-the-dataset)
+- [🧮 Algorithm](#-algorithm)
+- [🖥 The Flow](#-the-flow)
+- [📊 Statistic Card](#-statistic-card)
+- [🤖 Create Machine Learning Model (Auto ML) & Analysed the Results - Training Models](#-create-machine-learning-model-auto-ml--analysed-the-results---training-models)
 
 ## ⌛ Introduction
 
