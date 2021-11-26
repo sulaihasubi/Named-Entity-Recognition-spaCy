@@ -130,5 +130,5 @@ displacy.render(doc, style='ent')
 
 
 ## 📖 Conclusion
-We have shown how to label data with Doccano and create a custom model with Spacy.
+This project shown how to label data with Doccano and create a custom model with spaCy. Happy explore! You now can customize your own model with spaCy.
 
