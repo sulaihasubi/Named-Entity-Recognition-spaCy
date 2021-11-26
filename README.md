@@ -13,10 +13,10 @@ The notebooks should work with any of the Python versions listed below:
 ## ✍🏻 Table of Contents
 - [⌛ Introduction](#-introduction)
 - [🖋️ Label the Data](#-label-the-data)
-- [📖 Problem Statements](#-problem-statements)
+- [🖥 Train the Model](#-problem-statements)
 - [📊 About the Dataset](#-about-the-dataset)
 - [🧮 Algorithm](#-algorithm)
-- [🖥 The Flow](#-the-flow)
+- [The Flow](#-the-flow)
 - [📊 Statistic Card](#-statistic-card)
 - [🤖 Create Machine Learning Model (Auto ML) & Analysed the Results - Training Models](#-create-machine-learning-model-auto-ml--analysed-the-results---training-models)
 
@@ -61,3 +61,17 @@ Go to http://127.0.0.1:8000/
 Next, label the data using Doccano. Find entities which talk about oil, petrol, petroleum, etc and label them with the tag **OIL**.
 
 Export the result as **JSONL(Text label)** format.
+
+## 🖥  Train the Model
+Use Deep Learning (NN) with a 0.3 dropout rate to avoid overfitting.
+
+The idea is to use a Neural Network with numerous layers and a large number of neurons. We present them text that has already been classified, so the answer is already known. We'll run a lot of iterations, and on each one, we'll calculate the error using a Loss Function, which will modify the weight of the neurons, causing them to fire. The weight of the network will be modified over time in order to eliminate improper learning patterns and solve the problem.
+
+To avoid overfitting, which means the model "memorises" the training data and does not perform well with new data, we remove specific neurons at random on each iteration. This makes it easier for the model to generalise.
+
+Do not forgot to install spaCy first:
+```
+pip install -U pip setuptools wheel
+pip install -U spacy
+python -m spacy download en_core_web_sm
+```
