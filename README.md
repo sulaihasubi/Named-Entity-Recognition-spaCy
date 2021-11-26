@@ -114,3 +114,4 @@ python -m spacy download en_core_web_sm
 {'ner': 5.044446233919177e-07}
 {'ner': 3.048672749029026e-08}
 ```
+You should see the error decreasing as iterations go by, note that some times it may increase due to the dropout setting.
