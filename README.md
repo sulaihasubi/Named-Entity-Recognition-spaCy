@@ -12,7 +12,7 @@ The notebooks should work with any of the Python versions listed below:
 
 ## ✍🏻 Table of Contents
 - [⌛ Introduction](#-introduction)
-- [Introduction](#introduction)
+- [🖋️ Label the Data](#-label-the-data)
 - [📖 Problem Statements](#-problem-statements)
 - [📊 About the Dataset](#-about-the-dataset)
 - [🧮 Algorithm](#-algorithm)
@@ -37,3 +37,5 @@ Read the emails data set which has an email per line.
 - Save the model.
 - Create a Spacy NLP pipeline and use the new model to detect oil entities never seen before.
 - Finally, use pattern matching instead of a deep learning model to compare both method.
+
+## 🖋️ Label the Data
