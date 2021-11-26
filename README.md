@@ -10,6 +10,10 @@ The notebooks should work with any of the Python versions listed below:
 [![Python](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-386/)
 [![Python](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-389/)
 
+## Table of Contents
+- [⌛ Introduction](#introduction)
+
+
 ## ⌛ Introduction
 
 The purpose of this notebook is to demonstrate the entire process of name-entity recognition(NER) from start to the end with Spacy. This notebook also explore pattern matching as an alternative to NER when there is a known small set of fixed values.
