@@ -33,7 +33,7 @@ Below are the process perform in this notebook:
 Read the emails data set which has an email per line.
 - Label the emails with the OIL entity using [Doccano](https://doccano.github.io/doccano/tutorial/) labeling tool. This is a manual process.
 - Save the labels in a text file as JSONL.
-- Use Spacy Neural Network model to train a new statistical model.
+- Use spaCy Neural Network model to train a new statistical model.
 - Save the model.
 - Create a Spacy NLP pipeline and use the new model to detect oil entities never seen before.
 - Finally, use pattern matching instead of a deep learning model to compare both method.
