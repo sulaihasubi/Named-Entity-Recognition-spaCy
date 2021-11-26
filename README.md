@@ -114,4 +114,18 @@ python -m spacy download en_core_web_sm
 {'ner': 5.044446233919177e-07}
 {'ner': 3.048672749029026e-08}
 ```
-You should see the error decreasing as iterations go by, note that some times it may increase due to the dropout setting.
+You should see the error decreasing as iterations go by, note that some times it may increase due to the dropout setting and ready to save this model
+
+#### Test the Model
+Let's test the model. For this we use displacy which will display the entities in the text.
+
+```
+from spacy import displacy
+example = "service postings marathon petroleum co said it reduced the contract price it will pay for all grades of service oil one dlr a barrel effective today the decrease brings marathon s posted price for both west texas intermediate and west texas sour to dlrs a bbl the south louisiana sweet grade of service was reduced to dlrs a bbl the company last changed its service postings on jan reuter"
+
+doc = nlp(example)
+displacy.render(doc, style='ent')
+```
+
+
+
