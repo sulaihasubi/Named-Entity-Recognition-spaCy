@@ -44,14 +44,18 @@ First Step: Level the data using open source platform **Doccano**.
 Follow [Doccano](https://doccano.github.io/doccano/tutorial/) instructions to install and open Doccano.
 
 If you use Linux/Mac, I recommend using the docker image:
-
+```
 docker pull doccano/doccano
 docker container create --name doccano -e "ADMIN_USERNAME=admin" -e "ADMIN_EMAIL=admin@example.com" -e "ADMIN_PASSWORD=password" -p 8000:8000 doccano/doccano
 docker container start doccano
-For Windows, just use pip:
+```
 
+For Windows, just use pip:
+```
 pip install doccano
 doccano
+```
+
 Go to http://127.0.0.1:8000/
 
 Next, label the data using Doccano. Find entities which talk about oil, petrol, petroleum, etc and label them with the tag **OIL**.
