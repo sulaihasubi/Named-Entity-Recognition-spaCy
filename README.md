@@ -129,3 +129,6 @@ displacy.render(doc, style='ent')
 ![Alt Text](https://github.com/sulaihasubi/Named-Entity-Recognition-spaCy/blob/main/result/output.png)
 
 
+## 📖 Conclusion
+We have shown how to label data with Doccano and create a custom model with Spacy.
+
