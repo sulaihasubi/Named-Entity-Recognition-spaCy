@@ -13,7 +13,7 @@ The notebooks should work with any of the Python versions listed below:
 ## ✍🏻 Table of Contents
 - [⌛ Introduction](#-introduction)
 - [📊 Label the Data](%-label-the-data)
-- [🖥 Train the Model](#--train-the-model)
+- [🖥 Train & Test the Model](#--train-the-model)
 
 
 ## ⌛ Introduction
@@ -60,7 +60,7 @@ Next, label the data using Doccano. Find entities which talk about oil, petrol, 
 
 Export the result as **JSONL(Text label)** format.
 
-## 🖥  Train the Model
+## 🖥  Train & Test the Model
 Use Deep Learning (NN) with a 0.3 dropout rate to avoid overfitting.
 
 The idea is to use a Neural Network with numerous layers and a large number of neurons. We present them text that has already been classified, so the answer is already known. We'll run a lot of iterations, and on each one, we'll calculate the error using a Loss Function, which will modify the weight of the neurons, causing them to fire. The weight of the network will be modified over time in order to eliminate improper learning patterns and solve the problem.
