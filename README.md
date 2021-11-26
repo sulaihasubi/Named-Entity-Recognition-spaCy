@@ -13,12 +13,8 @@ The notebooks should work with any of the Python versions listed below:
 ## ✍🏻 Table of Contents
 - [⌛ Introduction](#-introduction)
 - [🖋️ Label the Data](#-label-the-data)
-- [🖥 Train the Model](#-problem-statements)
-- [📊 About the Dataset](#-about-the-dataset)
-- [🧮 Algorithm](#-algorithm)
-- [The Flow](#-the-flow)
-- [📊 Statistic Card](#-statistic-card)
-- [🤖 Create Machine Learning Model (Auto ML) & Analysed the Results - Training Models](#-create-machine-learning-model-auto-ml--analysed-the-results---training-models)
+- [🖥 Train the Model](#--train-the-model)
+
 
 ## ⌛ Introduction
 
