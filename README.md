@@ -12,7 +12,7 @@ The notebooks should work with any of the Python versions listed below:
 
 ## ✍🏻 Table of Contents
 - [⌛ Introduction](#-introduction)
-- [📊 Label the Data](%EF%B8%8F-label-the-data)
+- [📊 Label the Data](%-label-the-data)
 - [🖥 Train the Model](#--train-the-model)
 
 
