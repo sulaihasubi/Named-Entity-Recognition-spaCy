@@ -34,7 +34,9 @@ Read the emails data set which has an email per line.
 - Create a Spacy NLP pipeline and use the new model to detect oil entities never seen before.
 - Finally, use pattern matching instead of a deep learning model to compare both method.
 
+
 ## 🖋️ Label the Data
+
 First Step: Level the data using open source platform **Doccano**.
 
 Follow [Doccano](https://doccano.github.io/doccano/tutorial/) instructions to install and open Doccano.
