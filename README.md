@@ -12,7 +12,7 @@ The notebooks should work with any of the Python versions listed below:
 
 ## ✍🏻 Table of Contents
 - [⌛ Introduction](#-introduction)
-- [🖋️ Label the Data](%EF%B8%8F-label-the-data)
+- [📊 Label the Data](%EF%B8%8F-label-the-data)
 - [🖥 Train the Model](#--train-the-model)
 
 
@@ -35,7 +35,7 @@ Read the emails data set which has an email per line.
 - Finally, use pattern matching instead of a deep learning model to compare both method.
 
 
-## 🖋️ Label the Data
+## 📊 Label the Data
 
 First Step: Level the data using open source platform **Doccano**.
 
