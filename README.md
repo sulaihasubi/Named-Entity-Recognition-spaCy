@@ -1,6 +1,10 @@
 Named Entity Recognition (NER) with spaCy
 ========================
 [![Built with spaCy](https://img.shields.io/badge/made%20with%20❤%20and-spaCy-09a3d5.svg)](https://spacy.io)
+<a href="https://github.com/sulaihasubi/Named-Entity-Recognition-spaCy/commits/master">
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/sulaihasubi/Named-Entity-Recognition-spaCy">
+</a>
+
 
 The notebooks should work with any of the Python versions listed below:
 ========================
